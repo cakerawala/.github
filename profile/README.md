@@ -11,51 +11,15 @@ At Cakerawala, we're all about pushing the boundaries of what's possible through
 
 ## Be a part of the universe
 
-To become a part of Cakerawala, you can submit a pull request to our proofs-of-concept repository. We welcome Proof of Concept (POC) implementations in any language or framework. Once your pull request is approved, you'll be granted membership status, and your POC will be publicly available.
+To become a part of Cakerawala, you can submit a pull request to our [proofs-of-concept](https://github.com/cakerawala/proofs-of-concept) repository. We welcome Proof of Concept (POC) implementations in any language or framework. Once your pull request is approved, you'll be granted membership status, and your POC will be publicly available.
+
+- [Examples of POC](https://github.com/cakerawala/proofs-of-concept)
+- [How-to submit your POC to Cakerawala](https://github.com/cakerawala/proofs-of-concept/blob/main/README.md)
 
 Cakerawala is dedicated to discussing the latest advancements in technology and exploring innovative ideas in software engineering. We've curated a collection of exceptional ideas and software engineering techniques. By contributing to Cakerawala, you'll not only have the opportunity to build a strong reputation among team members but also make an impact in the real world.
 
-## Contribution guidelines
+### Who are we?
 
-1. **Obtain permission**: As the project is closed to the public, only authorized contributors can make changes. New contributors need to be approved by the project's administrators before they can contribute.
+If you want to know more about Cakerawala, check out our [Contribution](ContributionGuideline.md) and [Community Guideline](CommunityGuideline.md), and our [FAQ](FAQ.md) section for any questions you may have.
 
-2. **Read the documentation**: Before making any changes, it's important to familiarize yourself with the project's documentation, including its architecture, coding standards, and workflow.
-
-3. **Submit a pull request**: To contribute to the project, create a fork of the repository, make your changes, and submit a pull request. Be sure to follow the project's coding standards and style guide, and clearly explain the purpose and scope of your changes.
-
-4. **Test your changes**: Before submitting a pull request, thoroughly test your changes to ensure they work as intended and don't introduce any new bugs.
-
-5. **Communicate with other contributors**: Be responsive to feedback and communicate with other contributors about your changes. Collaborate with the project's maintainers to ensure your changes are in line with the project's goals and direction.
-
-6. **Follow up on your changes**: After your changes have been merged, follow up on any issues or feedback that may arise. Continue to contribute to the project as needed, and be open to collaborating with other contributors to improve the project.
-
-## Community guidelines
-
-1. **No meetings**: Keep all interaction on GitHub. You can hit us up by raising GitHub Issues, leaving comments on pull requests, or involved in GitHub Discussions. Check out the GitHub Docs if you need the deets. *Communicating on GitHub. https://docs.github.com/en/get-started/quickstart/communicating-on-github*
-
-2. **Be cool**: Treat everyone with respect and kindness, no matter what their experience, background, or views are. No flaming, trolling, or discriminatory language allowed.
-
-3. **Stick to the code**: We respect the Contributor Covenant Code of Conduct as we respect the rules of the universe. By participating, you agree to follow the code at all times.
-
-4. **Contribute like a boss**: Your contributions should be helpful and relevant to the project's goals. No spamming, trolling, or making off-topic contributions.
-
-5. **Respect the IP**: Always make sure your contributions are original or properly attributed if using external resources. Don't steal other people's code or infringe on their Intelectual Property (IP).
-
-6. **Security is key**: We take security seriously. Keep sensitive info, like logins and personal data, out of public forums.
-
-7. **Report any issues**: If you see anything that doesn't fly with our guidelines or code of conduct, let us know. We'll investigate and take action.
-
-## Useful resources
-
-Cakerawala-Wiki coming soon.
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We're a community-based education resource provider for software engineering in South East Asia. Our aim is to promote science and technology education and innovation among students and professionals. We're here to empower the next generation of tech-savvy professionals.
