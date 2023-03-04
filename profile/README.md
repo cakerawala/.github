@@ -20,6 +20,6 @@ Cakerawala is dedicated to discussing the latest advancements in technology and 
 
 ### Who are we?
 
-If you want to know more about Cakerawala, check out our [Contribution](ContributionGuideline.md) and [Community Guideline](CommunityGuideline.md), and our [FAQ](FAQ.md) section for any questions you may have.
+If you want to know more about Cakerawala, check out our [Wiki](https://github.com/cakerawala/.github/wiki), and our [FAQ](https://github.com/cakerawala/.github/wiki/FAQs) section for any questions you may have.
 
-We're a community-based education resource provider for software engineering in South East Asia. Our aim is to promote science and technology education and innovation among students and professionals. We're here to empower the next generation of tech-savvy professionals.
+We're a community-based education resource provider for software engineering in Southeast Asia. Our aim is to promote science and technology education and innovation among students and professionals. We're here to empower the next generation of tech-savvy professionals.
