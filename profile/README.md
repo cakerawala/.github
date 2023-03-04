@@ -5,6 +5,8 @@
 Definisi : 1. langit, lengkung langit; 2. peredaran bintang-bintang dll di langit; 3. bintang-bintang di langit (spt bulan, matahari, dll); 4. kaki langit, tepi langit. (Kamus Dewan Edisi Keempat)
 *Carian Umum. (n.d.). https://prpm.dbp.gov.my/Cari1?keyword=cakerawala*
 
+![cakerawala-div.jpg](https://i.postimg.cc/6psvf6pp/cakerawala-div.jpg)
+
 At Cakerawala, we're all about pushing the boundaries of what's possible through software development. Our goal is to leverage cutting-edge technology to solve complex, real-world issues. We're united by our shared appreciation for the power of science and tech to make a positive impact. If you're interested in joining our community, just drop a line to the admin. We'll be happy to consider your application.
 
 ## Contribution guidelines
@@ -27,7 +29,7 @@ At Cakerawala, we're all about pushing the boundaries of what's possible through
 
 2. **Be cool**: Treat everyone with respect and kindness, no matter what their experience, background, or views are. No flaming, trolling, or discriminatory language allowed.
 
-3. **Stick to the code**: We respect Contributor Covenant Code of Conduct as we respect the rules of universe. By participating, you agree to follow the code at all times.
+3. **Stick to the code**: We respect the Contributor Covenant Code of Conduct as we respect the rules of the universe. By participating, you agree to follow the code at all times.
 
 4. **Contribute like a boss**: Your contributions should be helpful and relevant to the project's goals. No spamming, trolling, or making off-topic contributions.
 
