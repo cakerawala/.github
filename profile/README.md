@@ -11,14 +11,14 @@ At Cakerawala, we're all about pushing the boundaries of what's possible through
 
 ## Be a part of the universe
 
-To become a part of Cakerawala, you can submit a pull request to our public [proofs-of-concept](https://github.com/cakerawala/proofs-of-concept) repository. We welcome Proof of Concept (POC) implementations in any open source language or framework. Once your pull request is approved, you'll be granted membership status to *@cakerawala/contributors*, and your POC will be publicly available for others to use for free education.
+To become a part of Cakerawala, you can submit a pull request to our public [proofs-of-concept](https://github.com/cakerawala/proofs-of-concept) repository. We welcome proof of concept (POC) implementations in any open source language or framework. Once your pull request is approved, you'll be granted membership status to *@cakerawala/contributors*, and your POC will be publicly available for others to use for free education.
 
 - [What is Proof of Concept (POC)](https://github.com/cakerawala/proofs-of-concept/wiki/Introduction)
-- [The POC repository](https://github.com/cakerawala/proofs-of-concept)
+- [Our curated POC repository](https://github.com/cakerawala/proofs-of-concept)
 - [How to submit your POC to Cakerawala](https://github.com/cakerawala/proofs-of-concept/wiki/Guideline#how-to-submit-poc)
 
 Cakerawala discusses the latest advancements in technology and explores innovative ideas in software engineering. We urge members to take part, make contributions, and help shape the community.
 
 ### Who runs Cakerawala?
 
-If you want to know more about Cakerawala contributors, check out our [Wiki](https://github.com/cakerawala/.github/wiki), and our [FAQ](https://github.com/cakerawala/.github/wiki/FAQs) section for any questions you may have.
+If you want to know more about Cakerawala's contributors, check out our [Wiki](https://github.com/cakerawala/.github/wiki), and our [FAQ](https://github.com/cakerawala/.github/wiki/FAQs) section for any questions you may have.
