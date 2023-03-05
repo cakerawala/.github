@@ -19,6 +19,6 @@ To become a part of Cakerawala, you can submit a pull request to our public [pro
 
 Cakerawala discusses the latest advancements in technology and explores innovative ideas in software engineering. We urge members to take part, make contributions, and help shape the community.
 
-### Who are we?
+### Who runs Cakerawala?
 
 If you want to know more about Cakerawala contributors, check out our [Wiki](https://github.com/cakerawala/.github/wiki), and our [FAQ](https://github.com/cakerawala/.github/wiki/FAQs) section for any questions you may have.
