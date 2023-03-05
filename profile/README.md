@@ -23,4 +23,4 @@ Cakerawala discusses the latest advancements in technology and explores innovati
 
 If you want to know more about Cakerawala contributors, check out our [Wiki](https://github.com/cakerawala/.github/wiki), and our [FAQ](https://github.com/cakerawala/.github/wiki/FAQs) section for any questions you may have.
 
-We're a community-driven curator of software engineering resources in Southeast Asia, dedicated to promoting science and technology education and innovation for students and professionals. We're here to empower the next generation of tech-savvy professionals.
+We're a community-driven curator of software engineering resources in Southeast Asia, dedicated to promoting science and technology education and innovation for students and professionals. We're here to empower the next generation of technologist.
