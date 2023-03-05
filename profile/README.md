@@ -11,7 +11,7 @@ At Cakerawala, we're all about pushing the boundaries of what's possible through
 
 ## Be a part of the universe
 
-To become a part of Cakerawala, you can submit a pull request to our public [proofs-of-concept](https://github.com/cakerawala/proofs-of-concept) repository. We welcome Proof of Concept (POC) implementations in any language or framework. Once your pull request is approved, you'll be granted membership status to *@cakerawala/contributors*, and your POC will be publicly available for others to use for free education.
+To become a part of Cakerawala, you can submit a pull request to our public [proofs-of-concept](https://github.com/cakerawala/proofs-of-concept) repository. We welcome Proof of Concept (POC) implementations in any open source language or framework. Once your pull request is approved, you'll be granted membership status to *@cakerawala/contributors*, and your POC will be publicly available for others to use for free education.
 
 - [What is Proof of Concept (POC)](https://github.com/cakerawala/proofs-of-concept/wiki/Introduction)
 - [The POC repository](https://github.com/cakerawala/proofs-of-concept)
