@@ -7,7 +7,7 @@ Definisi : 1. langit, lengkung langit; 2. peredaran bintang-bintang dll di langi
 
 ![cakerawala-div.jpg](https://i.postimg.cc/6psvf6pp/cakerawala-div.jpg)
 
-At Cakerawala, we're all about pushing the boundaries of what's possible through software development. Our goal is to leverage the collective wisdom of developers to solve complex, real-world issues. We're united by our shared appreciation for the power of science and tech to make a positive impact.
+At Cakerawala, we're all about pushing the boundaries of what's possible through open source software. Our goal is to leverage the collective wisdom of developers to solve complex, real-world issues. We're united by our shared appreciation for the power of science and tech to make a positive impact.
 
 ## Be a part of the universe
 
@@ -22,5 +22,3 @@ Cakerawala discusses the latest advancements in technology and explores innovati
 ### Who are we?
 
 If you want to know more about Cakerawala contributors, check out our [Wiki](https://github.com/cakerawala/.github/wiki), and our [FAQ](https://github.com/cakerawala/.github/wiki/FAQs) section for any questions you may have.
-
-We're a community-driven curator of software engineering resources in Southeast Asia, dedicated to promoting science and technology education and innovation for students and professionals. We're here to empower the next generation of technologist.
