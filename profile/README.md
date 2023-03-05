@@ -1,4 +1,4 @@
-# Welcome to Cakerawala
+# Cakerawala
 
 [ca.ke.ra.wa.la] | چکراوالا
 
