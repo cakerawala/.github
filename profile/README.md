@@ -7,18 +7,19 @@ Definisi : 1. langit, lengkung langit; 2. peredaran bintang-bintang dll di langi
 
 ![cakerawala-div.jpg](https://i.postimg.cc/6psvf6pp/cakerawala-div.jpg)
 
-At Cakerawala, we're all about pushing the boundaries of what's possible through open source software. Our goal is to leverage the collective wisdom of the contributors to innovate. We're united by our shared appreciation for the power of open source to make an impact in STEM education.
+At Cakerawala, we're united by our shared appreciation for the power of open source to make an impact in education. Our aim is to develop an AI tool that adapts and optimizes its knowledge base to deliver personalized learning materials.
 
 ## Be a part of the universe
 
-To become a part of Cakerawala, you can submit a pull request to our public [proofs-of-concept](https://github.com/cakerawala/proofs-of-concept) repository. We welcome proof of concept (POC) implementations in any open source language or framework. Once your pull request is approved, you'll be granted membership status to *@cakerawala/contributors*, and your POC will be publicly available for others to use for free education.
+
+To become a part of Cakerawala, you can contribute to our public [proofs-of-concept](https://github.com/cakerawala/proofs-of-concept) repository. We welcome proof of concept (POC) implementations in any open source language or framework. Once your pull request is approved, you will be granted membership status to *@cakerawala/contributors*, and the POC will be publicly available for others to use for free education.
 
 - [What is Proof of Concept (POC)](https://github.com/cakerawala/proofs-of-concept/wiki/Introduction)
 - [Is open source = free?](https://github.com/cakerawala/proofs-of-concept)
 - [How to submit your POC](https://github.com/cakerawala/proofs-of-concept/wiki/Guideline#how-to-submit-poc)
 
-Cakerawala discusses the latest advancements in technology and explores innovative ideas in science. We urge members to take part, make contributions, and help shape the community.
+Cakerawala discusses the latest advancements in technology and explores innovative ideas in science. Members are urged to take part, make contributions, and help shape the community.
 
 ### Who runs Cakerawala?
 
-If you want to know more about Cakerawala's contributors, check out our [Wiki](https://github.com/cakerawala/.github/wiki), and our [FAQ](https://github.com/cakerawala/.github/wiki/FAQs) section for any questions you may have.
+If you want to know more about the contributors, check out our [Wiki](https://github.com/cakerawala/.github/wiki), and our [FAQ](https://github.com/cakerawala/.github/wiki/FAQs) section for any questions you may have.
